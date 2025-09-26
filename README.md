@@ -1,5 +1,9 @@
 # 👋 Hi, I'm HansAnonymous!
 
+> “Trying to make the world a better place one line of code at a time”
+
+---
+
 I'm a **Senior Fullstack Developer** passionate about using technology to make the world a better place.
 I thrive on continuous learning and building meaningful projects.
 
@@ -45,7 +49,3 @@ I’m motivated by a desire to keep learning and to create things that make life
 - 📸 [Instagram](https://instagram.com/hansanonymous)
 - 🎮 [Twitch](https://twitch.tv/HansAnonymous)
 - 📧 hansanonymous@proton.me
-
----
-
-> “Trying to make the world a better place one line of code at a time”
