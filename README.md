@@ -49,5 +49,3 @@ I’m motivated by a desire to keep learning and to create things that make life
 ---
 
 > “Trying to make the world a better place one line of code at a time”
-- ⚡ Fun fact: ...
--->
